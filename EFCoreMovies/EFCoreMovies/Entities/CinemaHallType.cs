@@ -4,6 +4,6 @@
     {
         TwoDimensions = 1,
         ThreeDimensions = 2,
-        CSX = 3
+        CXC = 3
     }
 }
